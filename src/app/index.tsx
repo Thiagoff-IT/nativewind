@@ -7,6 +7,7 @@ export default function Home() {
     <View className="w-full h-full flex justify-center items-center">
       <Text>Open up App.tsx to start working on your app!</Text>
       <Link href="/about">Sobre</Link>
+      <Link href="/contact">Contato</Link>
       <StatusBar style="auto" />
     </View>
   );
