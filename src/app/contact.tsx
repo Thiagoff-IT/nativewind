@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { Alert, Text, View, TextInput, TouchableOpacity } from 'react-native';
 import { Link } from 'expo-router';
 import { StatusBar } from 'expo-status-bar';
-import { contactFormSchema } from './validation/contactSchema';
+import { contactFormSchema } from '../validation/contactSchema';
 
 export default function Contact() {
   // Estados para os campos e erros

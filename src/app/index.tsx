@@ -8,6 +8,7 @@ export default function Home() {
       <Text>Open up App.tsx to start working on your app!</Text>
       <Link href="/about">Sobre</Link>
       <Link href="/contact">Contato</Link>
+      <Link href="/info">Info</Link>
       <StatusBar style="auto" />
     </View>
   );

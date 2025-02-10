@@ -1,0 +1,6 @@
+{
+  "informacoes": [
+    { "id": 1, "titulo": "Informação 1", "descricao": "Descrição da informação 1" },
+    { "id": 2, "titulo": "Informação 2", "descricao": "Descrição da informação 2" }
+  ]
+}
